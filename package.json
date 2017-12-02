@@ -1,7 +1,7 @@
 {
   "name": "array-all-equal",
   "description": "Check if all of an array's items are equal.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "license": "MIT",
   "repository": "AndersDJohnson/array-all-equal",
