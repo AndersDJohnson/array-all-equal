@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "main": "dist/index.js",
   "license": "MIT",
+  "repository": "AndersDJohnson/array-all-equal",
   "scripts": {
     "build": "babel src --ignore '*.test.js,__tests__/*' -d dist",
     "test": "jest"
