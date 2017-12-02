@@ -1,0 +1,17 @@
+{
+  "name": "array-all-equal",
+  "description": "Check if all of an array's items are equal.",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "babel src --ignore '*.test.js,__tests__/*' -d dist",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "jest": "^21.2.1"
+  }
+}
